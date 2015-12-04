@@ -1,5 +1,7 @@
 # eupa-bioinfo
 
+[![Join the chat at https://gitter.im/eupa-bioinfo/EuBIC](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/eupa-bioinfo/EuBIC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Mission statment: 
 
 The Eupa Bioinfomatics Initiative is one of the European Proteomics Association initiatives grouping bioinformatics experts in the field of proteomics and realted MS fields such as metabolomics and lipidomis. The aim of the group is to porvide a community infrastructure for training, introduce bioinformatics users to MS tools and programming, provide metrics to compare, assess the quality of softwares and software tools. The group will also coordinate the effors for standarization of software development, comparisons amount different software tools and workflows, documentaion, and help to the end users of the software.
